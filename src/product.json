@@ -1,0 +1,43 @@
+[
+    {
+        "img":"https://assets.sainsburys-groceries.co.uk/gol/3741498/1/640x640.jpg",
+        "id":1,
+        "title" : "sakız",
+        "price": 0.5
+    },
+    
+    {
+        "img":"https://assets.sainsburys-groceries.co.uk/gol/3741498/1/640x640.jpg",
+        "id":2,
+        "title" : "sakız 2",
+        "price": 6
+    },
+    
+    {
+        "img":"https://assets.sainsburys-groceries.co.uk/gol/3741498/1/640x640.jpg",
+        "id":3,
+        "title" : "sakız 3",
+        "price": 7
+    },
+    
+    {
+        "img":"https://assets.sainsburys-groceries.co.uk/gol/3741498/1/640x640.jpg",
+        "id":4,
+        "title" : "sakız 4",
+        "price": 5
+    },
+    
+    {
+        "img":"https://assets.sainsburys-groceries.co.uk/gol/3741498/1/640x640.jpg",
+        "id":5,
+        "title" : "sakız 5",
+        "price": 8
+    },
+    
+    {
+        "img":"https://assets.sainsburys-groceries.co.uk/gol/3741498/1/640x640.jpg",
+        "id":6,
+        "title" : "sakız 6",
+        "price": 2
+    }
+]
